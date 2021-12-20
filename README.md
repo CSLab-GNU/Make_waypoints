@@ -1,2 +1,3 @@
 # Make_waypoints
-1. 안녕하세요
+1. roslaunch astar astar.launch
+2. 
