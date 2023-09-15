@@ -1,2 +1,9 @@
 # Make_waypoints
-1. roslaunch astar astar.launch
+
+Requirements
+Ubuntu 18.04 + ROS Melodic
+
+
+
+roslaunch astar astar.launch
+
