@@ -8,7 +8,7 @@ Map에서 A-Star 알고리즘을 통해 waypoint를 작성하는 패키지입니
 ### Installation
 catkin_ws/src 폴더에 해당 Repository 를 Clone 합니다
 ```bash
-$ mkdir ~/catkin_ws/src
+$ mkdir -p ~/catkin_ws/src
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/CSLab-GNU/Make_waypoints.git
 $ cd ..
