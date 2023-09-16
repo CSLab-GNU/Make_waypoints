@@ -19,6 +19,9 @@ $ source devel/setup.bash
 
 $ roslaunch astar astar.launch
 
+RViz의 2D Pose Estimate, 2D Nav Goal을 통해서 좌표의 출발지점과 도착지점을 적용할 수 있습니다.
+좌표에 대한 정보는 터미널에 나타납니다.
+
 #### Change Map
 환경에 설정된 맵을 변경하는 방법은 다음과 같습니다.
 
